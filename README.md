@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       2 hrs 38 mins   ██████████████████████▓░░   91.00 % 
+SCSS         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+C++          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
 <!--END_SECTION:waka-->
