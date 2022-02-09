@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   59 mins         ███████▓░░░░░░░░░░░░░░░░░   30.06 % 
+Vue.js       45 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.33 % 
+JavaScript   41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
+JSON         41 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
+Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 <!--END_SECTION:waka-->
