@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 40 mins   ██████████████████░░░░░░░   72.20 %
+JSON         25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Python       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Makefile     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
