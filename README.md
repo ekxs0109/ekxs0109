@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    46 mins         ████████▒░░░░░░░░░░░░░░░░   32.84 %
-C++           31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-CMake         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Objective-C   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-JSON          10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Markdown      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
