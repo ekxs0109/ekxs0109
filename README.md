@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   50 mins         ██████████████████████▒░░   89.31 %
+C++        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
