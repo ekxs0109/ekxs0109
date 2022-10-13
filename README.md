@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   20 mins         ███████████░░░░░░░░░░░░░░   43.51 %
+C++          11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Vue.js       10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
+HTML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
